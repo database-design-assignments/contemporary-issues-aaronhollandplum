@@ -20,4 +20,4 @@ The author also express fear that this misuse of data may be almost contagious, 
 
 
 
-*1. https://electronics.howstuffworks.com/how-does-google-maps-predict-traffic.htm*
+*<sup>1</sup> https://electronics.howstuffworks.com/how-does-google-maps-predict-traffic.htm*
